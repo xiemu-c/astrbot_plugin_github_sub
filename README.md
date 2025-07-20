@@ -1,6 +1,6 @@
 # astrbot_plugin_github_sub
 
-AstrBot 插件1
+AstrBot 插件12
 
 A template plugin for AstrBot plugin feature
 
